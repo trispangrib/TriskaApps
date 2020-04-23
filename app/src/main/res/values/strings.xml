@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Triska_Movies</string>
+    <string name="movies_name">movies_name</string>
+    <string name="detail">Detail</string>
+    <string name="list">List</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="book_now">Book Now</string>
+    <string name="view">View</string>
+    <string name="about">About Me</string>
+    <string name="move_to">Move to List</string>
+    <string name="desc">Description</string>
+</resources>
